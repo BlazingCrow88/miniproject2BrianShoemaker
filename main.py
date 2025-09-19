@@ -1,6 +1,6 @@
 # INF601 - Advanced Programming in Python
 # Brian Shoemaker
-# Mini Project 2 - Global CO2 Emissions Analysis
+# Mini Project 2 (Global CO2 Emissions Analysis)
 
 import pandas as pd
 import matplotlib.pyplot as plt
